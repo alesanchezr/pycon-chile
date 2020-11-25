@@ -1,0 +1,15 @@
+
+# 2020-11-25 07:38:59.250456
++this is the history
+
+# 2020-11-25 07:39:03.553466
++how are oyu?
+
+# 2020-11-25 07:39:31.633917
++hello
+
+# 2020-11-25 07:39:42.239715
++how are oyu?
+
+# 2020-11-25 07:50:35.985468
++/home/gitpod/.pyenv/versions/3.8.6/bin/python /workspace/pycon-chile/tricks/dict-comprehension.py
