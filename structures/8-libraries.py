@@ -23,9 +23,9 @@ print("Person as ", type(serialized), serialized)
 dictionary = json.loads(serialized)
 print("Person as ", type(dictionary), dictionary)
 
-import random 
-x = random.randint(1, 100)
-print("Random between 1 and 100",x)
+# import random 
+# x = random.randint(1, 100)
+# print("Random between 1 and 100",x)
 
 
 # import os

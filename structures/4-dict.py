@@ -8,8 +8,8 @@ fridge = {
 }
 
 
-# for key in fridge:
-#     print(key)
+for key in fridge:
+    print(key)
 
 
 # print(fridge)

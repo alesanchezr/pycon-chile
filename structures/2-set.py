@@ -8,7 +8,7 @@ all_fruits = {'🍎', '🍏', '🍋', '🍊'}
 
 # all_fruits.add(['👁', '👄']) # Sets cannot have mutable items!
 
-# print(all_fruits)
+print(all_fruits)
 
 # Why sets?
 # - Sets are slower than lists but guaranty inmutable items and avoid duplicates.
