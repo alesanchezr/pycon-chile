@@ -1,14 +1,15 @@
 # Sets are lists without order
 
-fruits = {'🍎', '🍏', '🍋', '🍊'}
+all_fruits = {'🍎', '🍏', '🍋', '🍊'}
 
-# fruits.add('🍍') # at the end
-# fruits.add('🍍') # at the end
+# all_fruits.add('🍍') # at the end
+# all_fruits.add('🍍') # at the end
 # Sets cannot have duplicates!
 
-# fruits.add(['👁', '👄']) # Sets cannot have mutable items!
+# all_fruits.add(['👁', '👄']) # Sets cannot have mutable items!
 
-print(fruits)
+# print(all_fruits)
 
 # Why sets?
-# Sets are slower than lists but guaranty inmutable items and avoid duplicates.
+# - Sets are slower than lists but guaranty inmutable items and avoid duplicates.
+# - Order don't matter

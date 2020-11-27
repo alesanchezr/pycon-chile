@@ -1,7 +1,7 @@
-fruits = '🍎', '🍏', '🍋', '🍊'
-vegetables = ('🥕', '🥬','🥑', '🍔')
+all_fruits = '🍎', '🍏', '🍋', '🍊'
+all_vegetables = ('🥕', '🥬','🥑', '🍔')
 
-print(vegetables)
+print(all_vegetables)
 
 # Tuples are inmutable
 

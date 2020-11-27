@@ -1,16 +1,19 @@
 # Lists are not arrays!
 
-fruits = ['🍎', '🍏', '🍋', '🍊']
+all_fruits = ['🍎', '🍏', '🍋', '🍊']
 
-# fruits.append('🍍') # at the end
+# all_fruits.append('🍍') # at the end
 
-# fruits.insert(0,'🍍') # at the beginning
+# all_fruits.insert(0,'🍍') # at the beginning
 
-# fruits.pop() # remove the last one
+# all_fruits.pop() # remove the last one
 
-# fruits.pop(0) # remove the first one
+# all_fruits.pop(0) # remove the first one
 
-print(fruits)
+# for fruit in all_fruits:
+#     print(fruit)
+
+# print(all_fruits)
 
 # Why lists?
 # Lists are faster than sets and provite great flexibility

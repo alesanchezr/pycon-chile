@@ -6,8 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pyinquirer = "*"
-requests = "*"
+pygame = "*"
 
 [requires]
 python_version = "3.8"
